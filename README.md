@@ -1,4 +1,4 @@
-                                PROJECT OVERVIEW: iNTRUSION DETECTION SYSTEM (IDS)
+                                PROJECT OVERVIEW: INTRUSION DETECTION SYSTEM (IDS)
 1. Project Function: 
 This project is a Python-based Intrusion Detection System (IDS) designed to monitor network traffic, system resources, and external devices. It features a graphical user interface (GUI) and utilizes machine learning for anomaly detection.
 
