@@ -1,0 +1,12 @@
+{
+    "events": [
+        {
+            "time": "2025-02-01 03:48:44",
+            "process_name": "System",
+            "action": "Monitoring Started",
+            "path": "C:\\Users\\Athul",
+            "status": "Active"
+        }
+    ],
+    "last_updated": "2025-02-01T03:48:44.244701"
+}

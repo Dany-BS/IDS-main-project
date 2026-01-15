@@ -1,0 +1,10 @@
+chrome.exe
+code.exe
+python.exe
+explorer.exe
+discord.exe
+whatsapp.exe
+whatspp.exe
+cursor.exe
+msmpeng.exesvchost.exe
+conhost.exe

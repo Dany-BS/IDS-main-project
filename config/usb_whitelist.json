@@ -1,0 +1,62 @@
+{
+    "04f3:0c00": {
+        "name": "ELAN ELAN WBF Fingerprint Sensor",
+        "vendor_id": 1267,
+        "product_id": 3072
+    },
+    "05c8:0b04": {
+        "name": "Microsoft HP Wide Vision HD Camera",
+        "vendor_id": 1480,
+        "product_id": 2820
+    },
+    "13d3:3567": {
+        "name": "Mediatek Inc. MediaTek Bluetooth Adapter",
+        "vendor_id": 5075,
+        "product_id": 13671
+    },
+    "0a9d:ff40": {
+        "name": "(Standard MTP Device) MTP USB Device",
+        "vendor_id": 2717,
+        "product_id": 65344
+    },
+    "0000:0002": {
+        "name": "usb.inf",
+        "vendor_id": 0,
+        "product_id": 2
+    },
+    "03f0:5a07": {
+        "name": "Compatible USB storage device USB Mass Storage Device",
+        "vendor_id": 1008,
+        "product_id": 23047
+    },
+    "04e8:6860": {
+        "name": "samsung Athul k Dinu's S21 FE",
+        "vendor_id": 1256,
+        "product_id": 26720
+    },
+    "2717:ff40": {
+        "name": "Xiaomi Redmi Note 8 Pro",
+        "vendor_id": 10007,
+        "product_id": 65344
+    },
+    "03f0:5607": {
+        "name": "Compatible USB storage device USB Mass Storage Device",
+        "vendor_id": 1008,
+        "product_id": 22023
+    },
+    "80ee:0021": {
+        "name": "(Standard system devices) USB Input Device",
+        "vendor_id": 33006,
+        "product_id": 33
+    },
+    "1bcf:08a0": {
+        "name": "(Standard system devices) USB Input Device",
+        "vendor_id": 7119,
+        "product_id": 2208
+    },
+    "22b8:2e82": {
+        "name": "motorola moto g85 5G",
+        "vendor_id": 8888,
+        "product_id": 11906
+    }
+}

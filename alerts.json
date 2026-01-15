@@ -1,0 +1,540 @@
+{
+  "alerts": [
+    {
+      "priority": "High",
+      "message": "Process dwm.exe exceeded resource limits",
+      "details": "Process Name: dwm.exe\nPID: 13868\nCPU Usage: 2.3% (Limit: 2.0%)\nMemory Usage: 2.3% (Limit: 7.0%)",
+      "time": "2025-04-06 09:09:03",
+      "process_name": "dwm.exe",
+      "source": "System"
+    },
+    {
+      "priority": "High",
+      "message": "Process apphelpercap.exe exceeded resource limits",
+      "details": "Process Name: apphelpercap.exe\nPID: 3032\nCPU Usage: 2.0% (Limit: 2.0%)\nMemory Usage: 0.3% (Limit: 7.0%)",
+      "time": "2025-04-06 09:08:58",
+      "process_name": "apphelpercap.exe",
+      "source": "System"
+    },
+    {
+      "priority": "High",
+      "message": "Process system exceeded resource limits",
+      "details": "Process Name: system\nPID: 4\nCPU Usage: 2.3% (Limit: 2.0%)\nMemory Usage: 0.0% (Limit: 7.0%)",
+      "time": "2025-04-06 09:08:58",
+      "process_name": "system",
+      "source": "System"
+    },
+    {
+      "priority": "High",
+      "message": "Process system idle process exceeded resource limits",
+      "details": "Process Name: system idle process\nPID: 0\nCPU Usage: 89.2% (Limit: 2.0%)\nMemory Usage: 0.0% (Limit: 2.0%)",
+      "time": "2025-04-06 08:26:40",
+      "process_name": "system idle process",
+      "source": "System"
+    },
+    {
+      "priority": "High",
+      "message": "Process msmpeng.exe exceeded resource limits",
+      "details": "Process Name: msmpeng.exe\nPID: 19512\nCPU Usage: 0.0% (Limit: 2.0%)\nMemory Usage: 2.8% (Limit: 2.0%)",
+      "time": "2025-04-06 08:26:37",
+      "process_name": "msmpeng.exe",
+      "source": "System"
+    },
+    {
+      "priority": "High",
+      "message": "Process radeonsoftware.exe exceeded resource limits",
+      "details": "Process Name: radeonsoftware.exe\nPID: 2416\nCPU Usage: 8.0% (Limit: 2.0%)\nMemory Usage: 1.4% (Limit: 2.0%)",
+      "time": "2025-04-06 08:25:02",
+      "process_name": "radeonsoftware.exe",
+      "source": "System"
+    },
+    {
+      "priority": "High",
+      "message": "Process svchost.exe exceeded resource limits",
+      "details": "Process Name: svchost.exe\nPID: 2688\nCPU Usage: 2.4% (Limit: 2.0%)\nMemory Usage: 0.1% (Limit: 2.0%)",
+      "time": "2025-04-06 08:24:04",
+      "process_name": "svchost.exe",
+      "source": "System"
+    },
+    {
+      "priority": "High",
+      "message": "Process dwm.exe exceeded resource limits",
+      "details": "Process Name: dwm.exe\nPID: 13868\nCPU Usage: 2.3% (Limit: 2.0%)\nMemory Usage: 1.4% (Limit: 2.0%)",
+      "time": "2025-04-06 08:23:47",
+      "process_name": "dwm.exe",
+      "source": "System"
+    },
+    {
+      "priority": "High",
+      "message": "Process memcompression exceeded resource limits",
+      "details": "Process Name: memcompression\nPID: 2884\nCPU Usage: 6.6% (Limit: 2.0%)\nMemory Usage: 1.2% (Limit: 2.0%)",
+      "time": "2025-04-06 08:22:40",
+      "process_name": "memcompression",
+      "source": "System"
+    },
+    {
+      "priority": "High",
+      "message": "Process amdfendrsr.exe exceeded resource limits",
+      "details": "Process Name: amdfendrsr.exe\nPID: 2444\nCPU Usage: 4.8% (Limit: 2.0%)\nMemory Usage: 0.0% (Limit: 2.0%)",
+      "time": "2025-04-06 08:22:40",
+      "process_name": "amdfendrsr.exe",
+      "source": "System"
+    },
+    {
+      "priority": "High",
+      "message": "Process msedgewebview2.exe exceeded resource limits",
+      "details": "Process Name: msedgewebview2.exe\nPID: 11180\nCPU Usage: 3.0% (Limit: 2.0%)\nMemory Usage: 1.6% (Limit: 2.0%)",
+      "time": "2025-04-06 08:22:38",
+      "process_name": "msedgewebview2.exe",
+      "source": "System"
+    },
+    {
+      "priority": "High",
+      "message": "Process searchindexer.exe exceeded resource limits",
+      "details": "Process Name: searchindexer.exe\nPID: 10804\nCPU Usage: 7.8% (Limit: 2.0%)\nMemory Usage: 0.8% (Limit: 2.0%)",
+      "time": "2025-04-06 08:22:38",
+      "process_name": "searchindexer.exe",
+      "source": "System"
+    },
+    {
+      "priority": "High",
+      "message": "Process apphelpercap.exe exceeded resource limits",
+      "details": "Process Name: apphelpercap.exe\nPID: 3032\nCPU Usage: 2.1% (Limit: 2.0%)\nMemory Usage: 0.5% (Limit: 2.0%)",
+      "time": "2025-04-06 08:22:38",
+      "process_name": "apphelpercap.exe",
+      "source": "System"
+    },
+    {
+      "priority": "High",
+      "message": "Process system exceeded resource limits",
+      "details": "Process Name: system\nPID: 4\nCPU Usage: 4.4% (Limit: 2.0%)\nMemory Usage: 0.0% (Limit: 2.0%)",
+      "time": "2025-04-06 08:22:38",
+      "process_name": "system",
+      "source": "System"
+    },
+    {
+      "priority": "High",
+      "message": "Process omencommandcenterbackground.exe exceeded resource limits",
+      "details": "Process Name: omencommandcenterbackground.exe\nPID: 15976\nCPU Usage: 0.0% (Limit: 2.0%)\nMemory Usage: 3.2% (Limit: 2.0%)",
+      "time": "2025-04-06 08:22:36",
+      "process_name": "omencommandcenterbackground.exe",
+      "source": "System"
+    },
+    {
+      "priority": "High",
+      "message": "Process phoneexperiencehost.exe exceeded resource limits",
+      "details": "Process Name: phoneexperiencehost.exe\nPID: 13960\nCPU Usage: 0.0% (Limit: 2.0%)\nMemory Usage: 2.1% (Limit: 2.0%)",
+      "time": "2025-04-06 08:22:36",
+      "process_name": "phoneexperiencehost.exe",
+      "source": "System"
+    },
+    {
+      "priority": "High",
+      "message": "Process system idle process exceeded resource limits",
+      "details": "Process Name: system idle process\nPID: 0\nCPU Usage: 95.0% (Limit: 2.0%)\nMemory Usage: 0.0% (Limit: 2.0%)",
+      "time": "2025-04-06 00:01:55",
+      "process_name": "system idle process",
+      "source": "System"
+    },
+    {
+      "priority": "High",
+      "message": "Process msmpeng.exe exceeded resource limits",
+      "details": "Process Name: msmpeng.exe\nPID: 19512\nCPU Usage: 0.0% (Limit: 2.0%)\nMemory Usage: 2.9% (Limit: 2.0%)",
+      "time": "2025-04-06 00:01:53",
+      "process_name": "msmpeng.exe",
+      "source": "System"
+    },
+    {
+      "priority": "High",
+      "message": "Process memcompression exceeded resource limits",
+      "details": "Process Name: memcompression\nPID: 2884\nCPU Usage: 0.0% (Limit: 2.0%)\nMemory Usage: 4.4% (Limit: 2.0%)",
+      "time": "2025-04-06 00:01:53",
+      "process_name": "memcompression",
+      "source": "System"
+    },
+    {
+      "priority": "High",
+      "message": "Process msedgewebview2.exe exceeded resource limits",
+      "details": "Process Name: msedgewebview2.exe\nPID: 6976\nCPU Usage: 6.7% (Limit: 2.0%)\nMemory Usage: 2.6% (Limit: 2.0%)",
+      "time": "2025-04-05 23:59:49",
+      "process_name": "msedgewebview2.exe",
+      "source": "System"
+    },
+    {
+      "priority": "High",
+      "message": "Process powershell.exe exceeded resource limits",
+      "details": "Process Name: powershell.exe\nPID: 7152\nCPU Usage: 6.0% (Limit: 2.0%)\nMemory Usage: 1.2% (Limit: 2.0%)",
+      "time": "2025-04-05 23:58:08",
+      "process_name": "powershell.exe",
+      "source": "System"
+    },
+    {
+      "priority": "High",
+      "message": "Process dwm.exe exceeded resource limits",
+      "details": "Process Name: dwm.exe\nPID: 22308\nCPU Usage: 2.1% (Limit: 2.0%)\nMemory Usage: 0.9% (Limit: 2.0%)",
+      "time": "2025-04-05 23:57:43",
+      "process_name": "dwm.exe",
+      "source": "System"
+    },
+    {
+      "priority": "High",
+      "message": "Process amdrsserv.exe exceeded resource limits",
+      "details": "Process Name: amdrsserv.exe\nPID: 15052\nCPU Usage: 3.8% (Limit: 2.0%)\nMemory Usage: 0.0% (Limit: 2.0%)",
+      "time": "2025-04-05 23:57:08",
+      "process_name": "amdrsserv.exe",
+      "source": "System"
+    },
+    {
+      "priority": "High",
+      "message": "Process nvdisplay.container.exe exceeded resource limits",
+      "details": "Process Name: nvdisplay.container.exe\nPID: 2376\nCPU Usage: 2.1% (Limit: 2.0%)\nMemory Usage: 0.2% (Limit: 2.0%)",
+      "time": "2025-04-05 23:57:08",
+      "process_name": "nvdisplay.container.exe",
+      "source": "System"
+    },
+    {
+      "priority": "High",
+      "message": "Process system exceeded resource limits",
+      "details": "Process Name: system\nPID: 4\nCPU Usage: 2.2% (Limit: 2.0%)\nMemory Usage: 0.0% (Limit: 2.0%)",
+      "time": "2025-04-05 23:55:34",
+      "process_name": "system",
+      "source": "System"
+    },
+    {
+      "time": "2025-04-06 08:29:05",
+      "source": "Signature",
+      "priority": "High",
+      "process_name": "ICMP Traffic",
+      "details": "smurf attack detected: 192.168.1.1 \u2192 224.0.0.1"
+    },
+    {
+      "time": "2025-04-06 08:29:07",
+      "source": "Signature",
+      "priority": "High",
+      "process_name": "ICMP Traffic",
+      "details": "smurf attack detected: 192.168.1.35 \u2192 224.0.0.252"
+    },
+    {
+      "time": "2025-04-06 08:29:12",
+      "source": "Signature",
+      "priority": "High",
+      "process_name": "ICMP Traffic",
+      "details": "smurf attack detected: 192.168.1.35 \u2192 224.0.0.251"
+    },
+    {
+      "time": "2025-04-06 08:29:13",
+      "source": "Signature",
+      "priority": "High",
+      "process_name": "TCP Traffic",
+      "details": "neptune attack detected: 192.168.1.35 \u2192 8.8.8.8"
+    },
+    {
+      "time": "2025-04-06 08:29:14",
+      "source": "Signature",
+      "priority": "High",
+      "process_name": "TCP Traffic",
+      "details": "neptune attack detected: 192.168.1.35 \u2192 8.8.8.8"
+    },
+    {
+      "time": "2025-04-06 08:31:10",
+      "source": "Signature",
+      "priority": "High",
+      "process_name": "ICMP Traffic",
+      "details": "smurf attack detected: 192.168.1.1 \u2192 224.0.0.1"
+    },
+    {
+      "time": "2025-04-06 08:31:11",
+      "source": "Signature",
+      "priority": "High",
+      "process_name": "ICMP Traffic",
+      "details": "smurf attack detected: 192.168.1.35 \u2192 224.0.0.251"
+    },
+    {
+      "time": "2025-04-06 08:31:17",
+      "source": "Signature",
+      "priority": "High",
+      "process_name": "TCP Traffic",
+      "details": "neptune attack detected: 192.168.1.35 \u2192 8.8.8.8"
+    },
+    {
+      "time": "2025-04-06 08:31:18",
+      "source": "Signature",
+      "priority": "High",
+      "process_name": "TCP Traffic",
+      "details": "neptune attack detected: 192.168.1.35 \u2192 8.8.8.8"
+    },
+    {
+      "time": "2025-04-06 08:31:20",
+      "source": "Signature",
+      "priority": "High",
+      "process_name": "ICMP Traffic",
+      "details": "smurf attack detected: 192.168.1.35 \u2192 224.0.0.252"
+    },
+    {
+      "time": "2025-04-06 08:31:22",
+      "source": "Signature",
+      "priority": "High",
+      "process_name": "ICMP Traffic",
+      "details": "smurf attack detected: 192.168.1.35 \u2192 192.168.255.255"
+    },
+    {
+      "time": "2025-04-06 08:33:16",
+      "source": "Signature",
+      "priority": "High",
+      "process_name": "ICMP Traffic",
+      "details": "smurf attack detected: 192.168.1.1 \u2192 224.0.0.1"
+    },
+    {
+      "time": "2025-04-06 08:33:18",
+      "source": "Signature",
+      "priority": "High",
+      "process_name": "ICMP Traffic",
+      "details": "smurf attack detected: 192.168.1.35 \u2192 224.0.0.252"
+    },
+    {
+      "time": "2025-04-06 08:33:20",
+      "source": "Signature",
+      "priority": "High",
+      "process_name": "ICMP Traffic",
+      "details": "smurf attack detected: 192.168.1.35 \u2192 224.0.0.251"
+    },
+    {
+      "time": "2025-04-06 09:10:54",
+      "source": "Signature",
+      "priority": "High",
+      "process_name": "TCP Traffic",
+      "details": "neptune attack detected: 192.168.1.35 \u2192 8.8.8.8"
+    },
+    {
+      "time": "2025-04-06 09:10:54",
+      "source": "Signature",
+      "priority": "High",
+      "process_name": "ICMP Traffic",
+      "details": "smurf attack detected: 192.168.1.1 \u2192 224.0.0.1"
+    },
+    {
+      "time": "2025-04-06 09:10:55",
+      "source": "Signature",
+      "priority": "High",
+      "process_name": "TCP Traffic",
+      "details": "neptune attack detected: 192.168.1.35 \u2192 8.8.8.8"
+    },
+    {
+      "time": "2025-04-06 09:10:56",
+      "source": "Signature",
+      "priority": "High",
+      "process_name": "TCP Traffic",
+      "details": "neptune attack detected: 192.168.1.35 \u2192 8.8.8.8"
+    },
+    {
+      "time": "2025-04-06 09:10:57",
+      "source": "Signature",
+      "priority": "High",
+      "process_name": "ICMP Traffic",
+      "details": "smurf attack detected: 192.168.1.35 \u2192 224.0.0.252"
+    },
+    {
+      "time": "2025-04-06 09:10:59",
+      "source": "Signature",
+      "priority": "High",
+      "process_name": "ICMP Traffic",
+      "details": "smurf attack detected: 192.168.1.35 \u2192 192.168.255.255"
+    },
+    {
+      "time": "2025-04-06 09:11:00",
+      "source": "Signature",
+      "priority": "High",
+      "process_name": "TCP Traffic",
+      "details": "ftp_write attack detected: 192.168.1.35 \u2192 8.8.8.8"
+    },
+    {
+      "time": "2025-04-06 09:11:01",
+      "source": "Signature",
+      "priority": "High",
+      "process_name": "TCP Traffic",
+      "details": "neptune attack detected: 8.8.8.8 \u2192 192.168.1.35"
+    },
+    {
+      "time": "2025-04-06 09:11:01",
+      "source": "Signature",
+      "priority": "High",
+      "process_name": "ICMP Traffic",
+      "details": "smurf attack detected: 192.168.1.35 \u2192 224.0.0.251"
+    },
+    {
+      "time": "2025-04-06 09:11:02",
+      "source": "Signature",
+      "priority": "High",
+      "process_name": "TCP Traffic",
+      "details": "backdoor attack detected: 192.168.1.35 \u2192 8.8.8.8"
+    },
+    {
+      "time": "2025-04-06 09:11:05",
+      "source": "Signature",
+      "priority": "High",
+      "process_name": "TCP Traffic",
+      "details": "PROTOCOL-FTP ADMw0rm ftp login attempt attack detected: 192.168.1.35 \u2192 8.8.8.8"
+    },
+    {
+      "time": "2025-04-06 09:11:06",
+      "source": "Signature",
+      "priority": "High",
+      "process_name": "TCP Traffic",
+      "details": "ftp_write attack detected: 192.168.1.35 \u2192 8.8.8.8"
+    },
+    {
+      "time": "2025-04-06 09:11:07",
+      "source": "Signature",
+      "priority": "High",
+      "process_name": "TCP Traffic",
+      "details": "guess_passwd attack detected: 192.168.1.35 \u2192 8.8.8.8"
+    },
+    {
+      "time": "2025-04-06 09:11:07",
+      "source": "Signature",
+      "priority": "High",
+      "process_name": "TCP Traffic",
+      "details": "neptune attack detected: 8.8.8.8 \u2192 192.168.1.35"
+    },
+    {
+      "time": "2025-04-06 09:11:08",
+      "source": "Signature",
+      "priority": "High",
+      "process_name": "TCP Traffic",
+      "details": "portscan attack detected: 192.168.1.35 \u2192 8.8.8.8"
+    },
+    {
+      "time": "2025-04-06 09:11:08",
+      "source": "Signature",
+      "priority": "High",
+      "process_name": "TCP Traffic",
+      "details": "neptune attack detected: 192.168.1.35 \u2192 8.8.8.8"
+    },
+    {
+      "time": "2025-04-06 08:27:55",
+      "source": "Anomaly",
+      "priority": "High",
+      "process_name": "TCP Traffic",
+      "details": "Network anomaly detected (Probability: 0.720)"
+    },
+    {
+      "time": "2025-04-06 08:27:55",
+      "source": "Anomaly",
+      "priority": "High",
+      "process_name": "TCP Traffic",
+      "details": "Network anomaly detected (Probability: 0.710)"
+    },
+    {
+      "time": "2025-04-06 08:27:55",
+      "source": "Anomaly",
+      "priority": "High",
+      "process_name": "TCP Traffic",
+      "details": "Network anomaly detected (Probability: 0.730)"
+    },
+    {
+      "time": "2025-04-06 08:27:56",
+      "source": "Anomaly",
+      "priority": "High",
+      "process_name": "TCP Traffic",
+      "details": "Network anomaly detected (Probability: 0.750)"
+    },
+    {
+      "time": "2025-04-06 08:27:56",
+      "source": "Anomaly",
+      "priority": "High",
+      "process_name": "TCP Traffic",
+      "details": "Network anomaly detected (Probability: 0.720)"
+    },
+    {
+      "time": "2025-04-06 08:28:04",
+      "source": "Anomaly",
+      "priority": "High",
+      "process_name": "TCP Traffic",
+      "details": "Network anomaly detected (Probability: 0.730)"
+    },
+    {
+      "time": "2025-04-06 08:35:09",
+      "source": "Anomaly",
+      "priority": "High",
+      "process_name": "TCP Traffic",
+      "details": "Network anomaly detected (Probability: 0.720)"
+    },
+    {
+      "time": "2025-04-06 08:35:10",
+      "source": "Anomaly",
+      "priority": "High",
+      "process_name": "TCP Traffic",
+      "details": "Network anomaly detected (Probability: 0.730)"
+    },
+    {
+      "time": "2025-04-06 09:12:20",
+      "source": "Anomaly",
+      "priority": "High",
+      "process_name": "TCP Traffic",
+      "details": "Network anomaly detected (Probability: 0.730)"
+    },
+    {
+      "time": "2025-04-06 09:12:38",
+      "source": "Anomaly",
+      "priority": "High",
+      "process_name": "TCP Traffic",
+      "details": "Network anomaly detected (Probability: 0.720)"
+    },
+    {
+      "time": "2025-04-06 09:12:52",
+      "source": "Anomaly",
+      "priority": "High",
+      "process_name": "TCP Traffic",
+      "details": "Network anomaly detected (Probability: 0.730)"
+    },
+    {
+      "time": "2025-04-06 09:12:52",
+      "source": "Anomaly",
+      "priority": "High",
+      "process_name": "TCP Traffic",
+      "details": "Network anomaly detected (Probability: 0.710)"
+    },
+    {
+      "time": "2026-01-15 10:09:10",
+      "source": "System",
+      "priority": "High",
+      "process_name": "test_process.exe",
+      "details": "Test system resource alert"
+    },
+    {
+      "time": "2026-01-15 10:09:10",
+      "source": "Signature",
+      "priority": "Medium",
+      "process_name": "TCP Traffic",
+      "details": "Test signature-based alert"
+    },
+    {
+      "time": "2026-01-15 10:09:10",
+      "source": "Anomaly",
+      "priority": "High",
+      "process_name": "UDP Traffic",
+      "details": "Test anomaly detection alert"
+    },
+    {
+      "time": "2026-01-15 10:10:40",
+      "source": "Signature",
+      "priority": "High",
+      "process_name": "icmp Traffic",
+      "details": "smurf detected: 192.168.1.1 \u2192 224.0.0.1 - smurf attack detected"
+    },
+    {
+      "time": "2026-01-15 10:10:57",
+      "source": "Signature",
+      "priority": "High",
+      "process_name": "icmp Traffic",
+      "details": "smurf detected: 192.168.1.33 \u2192 224.0.0.252 - smurf attack detected"
+    },
+    {
+      "time": "2026-01-15 10:10:57",
+      "source": "Signature",
+      "priority": "High",
+      "process_name": "icmp Traffic",
+      "details": "smurf detected: 192.168.1.33 \u2192 224.0.0.251 - smurf attack detected"
+    }
+  ]
+}
